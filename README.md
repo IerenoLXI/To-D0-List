@@ -15,6 +15,8 @@ A simple **To-Do List** web application built with **HTML, CSS, and JavaScript**
 ---
 
 ## 🎨 Screenshots
+![Screenshot 2025-02-06 105114](https://github.com/user-attachments/assets/f8326b17-3e81-4fd3-a523-2348fa8f4192)
+![Screenshot 2025-02-06 105353](https://github.com/user-attachments/assets/60fb6061-0522-4849-8d17-7fe1b7aed183)
 
 
 ---
