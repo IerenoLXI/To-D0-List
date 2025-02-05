@@ -64,11 +64,15 @@ A simple **To-Do List** web application built with **HTML, CSS, and JavaScript**
 
 - [ ] Add **edit functionality** to modify tasks  
 - [ ] Implement **drag & drop** sorting  
-- [ ] Add a **dark mode toggle**  
+- [ ] Add a **dark mode and toggle**  
 
 ---
 
-## 📬 Connect With Me
+## 🐝 License
+This project is **free to use** and does not require any license.  
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/aakrosh-rai-7332b7314/) and discuss more cool projects! 🚀
+## 🤝 Connect With Me
+📧 Email: aakroshrai15@gmail.com  
+🔗 LinkedIn: [Aakrosh](https://www.linkedin.com/in/aakrosh-rai-7332b7314/)  
+📂 GitHub: [IerenoLXI](https://github.com/IerenoLXI)
 
